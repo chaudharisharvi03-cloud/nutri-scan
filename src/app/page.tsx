@@ -1,8 +1,8 @@
 'use client'
 
 import { useState } from 'react';
-import { performOCR } from '@/utils/ocrScanner';
-import { evaluateSafety } from '@/utils/healthLogic';
+import { performOCR } from '../utils/ocrScanner';
+import { evaluateSafety } from '../utils/healthLogic';
 
 export default function NutriScan() {
   const [loading, setLoading] = useState(false);
