@@ -3,9 +3,7 @@ Track: Health Tech
 
 Status: Fully Functional Prototype (36-Hour Hackathon Build)
 
-Live Demo: [Insert your Vercel/Netlify Link Here]
-
-Video Demo: [Insert your Loom/YouTube Link Here]
+Video Demo: 
 
 The Problem
 Patients managing Chronic Kidney Disease (CKD) and Diabetes face a daily struggle with "Hidden Killers"—Sodium, Potassium, and Sugar hidden in processed foods.
